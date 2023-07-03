@@ -1,0 +1,65 @@
+.header{
+	padding: 14px 0px;
+	background: url('../../img/header_bg.jpg') center (center/cover) no-repeat;
+	&__panel{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	&__menu{
+		display: flex;
+		align-items: center;
+	}
+	&__logo-link{
+		display: flex;
+		text-decoration: none;
+	}
+	&__nft{
+		font-family: 'Inter';
+		font-weight: 700;
+		font-size: 14px;
+		color: #EC00FF;
+		text-decoration: none;
+		text-transform: uppercase;
+		position: relative;
+		top: -10px;
+		left: 5px;
+	}
+	&__info{
+		font-family: 'Inter';
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 19px;
+		color: #FFFFFF;
+		margin-right: 59px;
+	}
+	&__instructions{
+		position: relative;
+		font-family: 'Inter';
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 19px;
+		color: #FFFFFF;
+		margin-right: 50px; 
+	}
+	&__connect{
+		margin-right: 22px;
+		font-family: 'Inter';
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 19px;
+		color: #FFFFFF;
+		border: 1px solid #FFFFFF;
+		border-radius: 12px;
+		padding: 9px 16px;
+	}
+	&__button{
+		width: 37px;
+		height: 37px;
+		background: #000;
+		border-radius: 12px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}

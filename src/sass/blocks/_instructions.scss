@@ -1,0 +1,64 @@
+.instructions{
+	margin-top: 30px;
+	&__wrapper{
+		display: flex;
+	}
+	&__right{
+		margin-left: 70px;
+	}
+	&__content{
+		padding: 32px 0 31px 35px;
+		background: #282828;
+		border-radius: 10px;
+	}
+	&__title{
+		margin: 0;
+		font-family: 'Inter';
+		font-weight: 600;
+		font-size: 32px;
+		line-height: 39px;
+		color: #FFFFFF;
+	}
+	&__left-top-text{
+		margin-top: 11px;
+		margin-bottom: 22px;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px;
+		color: #FFFFFF;
+	}
+	&__connect-card{
+		position: relative;
+	}
+	&__left-bottom-text{
+		margin-top: 36px;
+		margin-bottom: 8px;
+		font-family: 'Inter';
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 21px;
+		color: #FFFFFF;
+	}
+	&__right-top-text{
+		margin-top: 11px;
+		margin-bottom: 22px;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px;
+		color: #FFFFFF;
+	}
+	&__right-bottom-text{
+		margin-top: 38px;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px;
+		color: #FFFFFF;
+	}
+	&__right-bottom-text-img{
+		margin-top: 10px;
+		margin-left: -7px;
+	}
+}

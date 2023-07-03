@@ -1,0 +1,25 @@
+@import 'base/variables';
+@import 'base/mixins';
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #1A1A1A;
+}
+
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    position: relative;
+}
+
+@import 'blocks/buttons';
+@import 'blocks/header';
+@import 'blocks/promo';
+@import 'blocks/connect';
+@import 'blocks/connect-card';
+@import 'blocks/approve-card';
+@import 'blocks/instructions';
+@import 'blocks/footer';

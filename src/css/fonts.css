@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter/Inter-Bold.eot');
+    src: url('../fonts/Inter/Inter-Bold.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Inter/Inter-Bold.ttf') format('truetype'),
+    url('../fonts/Inter/Inter-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter/Inter-LightBETA.eot');
+    src: url('../fonts/Inter/Inter-LightBETA.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Inter/Inter-LightBETA.ttf') format('truetype'),
+    url('../fonts/Inter/Inter-LightBETA.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter/Inter-Medium.eot');
+    src: url('../fonts/Inter/Inter-Medium.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Inter/Inter-Medium.ttf') format('truetype'),
+    url('../fonts/Inter/Inter-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter/Inter-Regular.eot');
+    src: url('../fonts/Inter/Inter-Regular.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Inter/Inter-Regular.ttf') format('truetype'),
+    url('../fonts/Inter/Inter-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter/Inter-SemiBold.eot');
+    src: url('../fonts/Inter/Inter-SemiBold.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Inter/Inter-SemiBold.ttf') format('truetype'),
+    url('../fonts/Inter/Inter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../fonts/SegoeUI/SegoeUI-SemiBold.eot');
+    src: url('../fonts/SegoeUI/SegoeUI-SemiBold.eot#iefix') format('embedded-opentype'),
+    url('../fonts/SegoeUI/SegoeUI-SemiBold.ttf') format('truetype'),
+    url('../fonts/SegoeUI/SegoeUI-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../fonts/SegoeUI/SegoeUI.eot');
+    src: url('../fonts/SegoeUI/SegoeUI.eot#iefix') format('embedded-opentype'),
+    url('../fonts/SegoeUI/SegoeUI.ttf') format('truetype'),
+    url('../fonts/SegoeUI/SegoeUI.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Consolas';
+    src: url('../fonts/Consolas/Consolas.eot');
+    src: url('../fonts/Consolas/Consolas.eot#iefix') format('embedded-opentype'),
+    url('../fonts/Consolas/Consolas.ttf') format('truetype'),
+    url('../fonts/Consolas/Consolas.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
